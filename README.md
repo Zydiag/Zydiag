@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 # 💫 About Me:
-🔭 I’m currently working on Ecommerce App<br>🌱 I’m currently learning Redux <br>💬 Ask me about Frontend<br>
+🔭 I’m currently working on Full Stack App<br>🌱 I’m currently learning Nextjs <br>💬 Ask me about Frontend<br>
 
 
 ## 🌐 Socials:
