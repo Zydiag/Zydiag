@@ -47,74 +47,36 @@
 
 ## Stats:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-145-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-109-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-396.6%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-397.4%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 86.8 kB Used in GitHub's Storage 
  > 
-> 🏆 56 Contributions in the Year 2024
+> 🏆 59 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
-> 📜 35 Public Repositories 
+> 📜 36 Public Repositories 
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                109 commits         █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
-🌆 Daytime                199 commits         █████████░░░░░░░░░░░░░░░░   35.47 % 
-🌃 Evening                180 commits         ████████░░░░░░░░░░░░░░░░░   32.09 % 
-🌙 Night                  73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-Tuesday                  77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-Wednesday                178 commits         ████████░░░░░░░░░░░░░░░░░   31.73 % 
-Thursday                 64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-Friday                   37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
-Saturday                 56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-Sunday                   93 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               17 repos            ███████████████░░░░░░░░░░   58.62 % 
-CSS                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-TypeScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+JavaScript               18 repos            ███████████████░░░░░░░░░░   60.00 % 
+CSS                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 ```
 
 
 
 
- Last Updated on 21/01/2024 09:52:01 UTC
+ Last Updated on 21/01/2024 18:39:09 UTC
 <!--END_SECTION:waka-->
 
 
