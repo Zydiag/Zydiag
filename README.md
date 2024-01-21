@@ -34,17 +34,20 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/WXr2pfp2) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s_lakha29) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Zydiag) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Zydiag) 
 # 📊 GitHub Stats:
 <div align="left" gap="5">
-  <img src="https://github-readme-stats.vercel.app/api?username=zydiag&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=zydiag&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=zydiag&theme=radical)](https://git.io/streak-stats)
+
+  <!--   <img src="https://github-readme-stats.vercel.app/api?username=zydiag&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zydiag&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Zydiag&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+## Stats:
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 ---
