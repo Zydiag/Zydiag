@@ -47,15 +47,79 @@
 
 ## Stats:
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-```txt
-From: 20 January 2024 - To: 20 January 2024
+![Profile Views](http://img.shields.io/badge/Profile%20Views-109-blue)
 
-Total Time: 0 secs
+**🐱 My GitHub Data** 
 
-No activity tracked
+> 📦 86.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 56 Contributions in the Year 2024
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 35 Public Repositories 
+ > 
+> 🔑 5 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                109 commits         █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
+🌆 Daytime                198 commits         █████████░░░░░░░░░░░░░░░░   35.36 % 
+🌃 Evening                180 commits         ████████░░░░░░░░░░░░░░░░░   32.14 % 
+🌙 Night                  73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Tuesday                  77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+Wednesday                178 commits         ████████░░░░░░░░░░░░░░░░░   31.79 % 
+Thursday                 64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+Friday                   37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+Saturday                 56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Sunday                   92 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               17 repos            ███████████████░░░░░░░░░░   58.62 % 
+CSS                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+TypeScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Zydiag/Zydiag/main/assets/bar_graph.png)
+
+
+ Last Updated on 21/01/2024 09:42:59 UTC
 <!--END_SECTION:waka-->
 
 
