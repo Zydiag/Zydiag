@@ -53,7 +53,11 @@ From: 20 January 2024 - To: 21 January 2024
 
 Total Time: 1 hr 52 mins
 
-Other        3 hrs 16 mins   ████████████████░░░░░░░░░   63.46 %
+JavaScript   1 hr 24 mins    ███████░░░░░░░░░░░░░░░░░░   27.48 %
+TypeScript   23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+INI          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
