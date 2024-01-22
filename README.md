@@ -49,11 +49,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
+From: 20 January 2024 - To: 21 January 2024
+
+Total Time: 1 hr 52 mins
+
 Other        3 hrs 16 mins   ████████████████░░░░░░░░░   63.46 %
-JavaScript   1 hr 24 mins    ███████░░░░░░░░░░░░░░░░░░   27.48 %
-TypeScript   23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 %
-JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
