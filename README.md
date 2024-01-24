@@ -45,22 +45,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## Stats:
-<!--START_SECTION:waka-->
-
-```txt
-From: 20 January 2024 - To: 22 January 2024
-
-Total Time: 6 hrs 12 mins
-
-JavaScript   4 hrs 48 mins   ████████████▓░░░░░░░░░░░░   50.31 %
-TypeScript   23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
-Markdown     19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
-Bash         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-```
-
-<!--END_SECTION:waka-->
-
-
 ---
